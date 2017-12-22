@@ -1,0 +1,975 @@
+Monet.txt
+PRINTING BEFORE NORMALIZED 
+-:2, 14:1, 15:1, 16:1, 1840:1, 1840-1926:1, 1859:1, 1862:1
+1870s:1, 1874:1, 1880s:1, 1882:1, 1883:1, 1890:1, 1900:1, 1926:2
+25:1, 5:1, abandoned:1, able:1, absorbed:1, abstract:1, academie:1, accepted:1
+adhered:1, advise:1, after:1, again:1, against:1, age:3, alfred:1, algeria:3
+applied:1, approach:1, approximately:1, areas:1, argenteuil:2, army:1, art:2, artist:1
+artistes:1, artistic:1, artists:2, aspect:1, atlantic:1, attempt:2, attempted:1, auguste:1
+aunt:2, avoid:1, back:1, backgrounds:1, bazille:2, before:1, began:1, beginning:1
+begun:1, behind:1, being:1, bind:1, biography:1, born:1, boudin:3, bought:1
+brilliant:1, broadly:1, broke:1, brush:1, brushstrokes:1, calculated:1, called:1, camille:5
+canvases:1, captured:1, caricatures:1, cathedral:1, cezanne:1, changed:1, charles:1, chasing:1
+child:1, claude:3, clearly:1, close:1, coasts:1, color:2, colors:2, come:1
+commission:1, commitment:1, completing:1, completion:1, compositions:1, concern:1, condition:1, conditions:1
+constable:1, constant:1, content:1, continued:1, contraction:1, contradict:1, conventional:1, could:1
+couple:1, coupled:1, course:1, creating:1, credited:1, criticized:1, cubism:1, culminating:1
+cut:1, dark:1, day:1, days:1, deal:1, death:4, december:1, dedication:1
+degas:1, dependent:1, des:1, despite:3, detail:1, determined:1, developed:1, devoted:1
+did:1, died:1, dieppe:1, different:5, disintegration:1, distinct:1, doncieux:1, dress:1
+drew:1, drifted:1, drouot:1, each:1, early:1, effect:1, effects:1, en:1
+end:1, enemy:1, english:1, enroll:1, entire:1, entirely:1, entries:1, especially:1
+eugene:1, eventaully:1, every:1, exclusively:1, exhibition:1, existence:1, expectations:1, expected:1
+exposed:1, extremely:1, eyesight:1, failing:1, failure:1, faster:1, fathers:1, fauvism:1
+feel:1, felt:1, filled:1, finally:2, financial:3, financially:1, first:2, five:1
+followed:1, fontainbleau:1, force:1, forced:1, forest:1, forged:1, formal:1, founding:1
+france:1, franco-prussian:1, frederic:1, french:1, frequent:1, frequently:1, friend:1, friends:5
+fully:1, future:1, gained:1, gardening:1, general:1, geographical:1, giverny:2, giving:1
+gleyre:1, gleyres:1, good:1, gradually:2, green:1, group:2, groups:1, handled:1
+having:1, havre:4, hay:1, haystacks:1, height:1, help:1, her:1, hotel:1
+house:3, houses:1, however:1, if:1, immersed:1, important:1, impression:1, impressionism:2
+impressionist:3, impressionists:1, impressionsunrise:1, increasingly:1, indeed:1, indoor:1, influence:1, influenes:1
+influential:1, insecurity:1, inspire:1, instead:2, institution:1, intense:1, intervened:1, into:1
+itinerant:1, joined:2, labeled:1, landmarks:1, landscapes:1, large:2, largely:2, larger:1
+later:1, le:4, lecadre:1, lecole:1, left:1, lessons:1, life:2, lifestyle:1
+lifetime:1, light:4, lily:1, limitations:1, little:1, lived:1, loaded:1, local:1
+located:1, london:4, long:1, loosely:1, loss:1, losses:1, loved:1, luxury:1
+madame:1, make:2, manet:2, marked:2, masters:1, mediterranean:1, meet:1, met:1
+mistress:1, mocked:1, monet:34, monets:9, money:1, morose:1, motif:1, move:1
+moved:2, movement:2, museums:1, name:1, naming:1, national:1, nature:3, nearby:1
+new:1, newfound:1, newspaper:1, next:1, november:1, number:1, offered:1, old:1
+only:2, open:1, opposite:1, out:1, outdoors:1, overall:1, own:1, paint:3
+painted:4, painter:1, painters:3, painting:6, paintings:5, paris:6, parliament:1, passion:1
+perfecting:1, period:1, perspective:1, pictures:1, piece:1, pigment:1, pissarro:2, placed:1
+pool:1, popular:1, port:1, pourville:1, pregnant:1, presented:2, project:1, proposal:1
+provided:1, provisions:1, prussian:1, public:1, pursue:1, put:1, quite:1, receiving:1
+recognized:1, recoup:1, refined:1, reflect:1, relationship:1, remain:2, remained:2, renoir:4
+renown:1, renowned:1, rented:1, replacing:1, represents:1, reputation:1, resulted:1, return:2
+returned:1, reworking:1, ridicule:1, rouen:1, rough:1, sacrificing:1, salon:1, same:1
+scenic:1, school:1, secure:1, seine:1, sell:1, series:1, serious:2, served:1
+service:1, settled:1, several:1, shadows:1, short:1, showing:1, simultaneously:1, sisley:3
+six:1, smooth:1, social:1, sombre:1, southeast:1, spaces:1, spending:1, spent:1
+spontaneous:1, spring:1, stacks:1, still:1, strokes:2, strong:1, structured:1, student:1
+studio:2, study:1, style:5, subdued:1, subject:2, subjects:1, successful:1, suggest:1
+sunlight:1, sunrise:1, support:1, surface:1, surfaces:1, swiss-born:1, systematically:1, talented:1
+talents:1, task:1, technique:2, texture:1, thames:1, than:1, their:1, them:1
+themselves:1, thewoman:1, three:2, through:1, throughout:1, time:10, together:1, too:1
+took:1, town:1, tradition:1, traditionalists:2, tried:1, trips:2, tuition:1, turn:1
+turner:1, two:4, typhoid:1, uncertainty:1, under:1, understood:1, unifying:1, up:1
+use:1, varengeville-sur-mer:1, venice:1, venue:1, versions:1, views:1, visible:1, visiting:1
+vogue:2, wanted:1, war:1, water:1, went:1, work:3, worked:1, works:1
+world:3, years:5, 
+
+
+
+size is now 466
+wordcount is now 643
+LEAVING 
+
+
+PRINTING AFTER NORMALIZED 
+-:0.0031, 14:0.0016, 15:0.0016, 16:0.0016, 1840:0.0016, 1840-1926:0.0016, 1859:0.0016, 1862:0.0016
+1870s:0.0016, 1874:0.0016, 1880s:0.0016, 1882:0.0016, 1883:0.0016, 1890:0.0016, 1900:0.0016, 1926:0.0031
+25:0.0016, 5:0.0016, abandoned:0.0016, able:0.0016, absorbed:0.0016, abstract:0.0016, academie:0.0016, accepted:0.0016
+adhered:0.0016, advise:0.0016, after:0.0016, again:0.0016, against:0.0016, age:0.0047, alfred:0.0016, algeria:0.0047
+applied:0.0016, approach:0.0016, approximately:0.0016, areas:0.0016, argenteuil:0.0031, army:0.0016, art:0.0031, artist:0.0016
+artistes:0.0016, artistic:0.0016, artists:0.0031, aspect:0.0016, atlantic:0.0016, attempt:0.0031, attempted:0.0016, auguste:0.0016
+aunt:0.0031, avoid:0.0016, back:0.0016, backgrounds:0.0016, bazille:0.0031, before:0.0016, began:0.0016, beginning:0.0016
+begun:0.0016, behind:0.0016, being:0.0016, bind:0.0016, biography:0.0016, born:0.0016, boudin:0.0047, bought:0.0016
+brilliant:0.0016, broadly:0.0016, broke:0.0016, brush:0.0016, brushstrokes:0.0016, calculated:0.0016, called:0.0016, camille:0.0078
+canvases:0.0016, captured:0.0016, caricatures:0.0016, cathedral:0.0016, cezanne:0.0016, changed:0.0016, charles:0.0016, chasing:0.0016
+child:0.0016, claude:0.0047, clearly:0.0016, close:0.0016, coasts:0.0016, color:0.0031, colors:0.0031, come:0.0016
+commission:0.0016, commitment:0.0016, completing:0.0016, completion:0.0016, compositions:0.0016, concern:0.0016, condition:0.0016, conditions:0.0016
+constable:0.0016, constant:0.0016, content:0.0016, continued:0.0016, contraction:0.0016, contradict:0.0016, conventional:0.0016, could:0.0016
+couple:0.0016, coupled:0.0016, course:0.0016, creating:0.0016, credited:0.0016, criticized:0.0016, cubism:0.0016, culminating:0.0016
+cut:0.0016, dark:0.0016, day:0.0016, days:0.0016, deal:0.0016, death:0.0062, december:0.0016, dedication:0.0016
+degas:0.0016, dependent:0.0016, des:0.0016, despite:0.0047, detail:0.0016, determined:0.0016, developed:0.0016, devoted:0.0016
+did:0.0016, died:0.0016, dieppe:0.0016, different:0.0078, disintegration:0.0016, distinct:0.0016, doncieux:0.0016, dress:0.0016
+drew:0.0016, drifted:0.0016, drouot:0.0016, each:0.0016, early:0.0016, effect:0.0016, effects:0.0016, en:0.0016
+end:0.0016, enemy:0.0016, english:0.0016, enroll:0.0016, entire:0.0016, entirely:0.0016, entries:0.0016, especially:0.0016
+eugene:0.0016, eventaully:0.0016, every:0.0016, exclusively:0.0016, exhibition:0.0016, existence:0.0016, expectations:0.0016, expected:0.0016
+exposed:0.0016, extremely:0.0016, eyesight:0.0016, failing:0.0016, failure:0.0016, faster:0.0016, fathers:0.0016, fauvism:0.0016
+feel:0.0016, felt:0.0016, filled:0.0016, finally:0.0031, financial:0.0047, financially:0.0016, first:0.0031, five:0.0016
+followed:0.0016, fontainbleau:0.0016, force:0.0016, forced:0.0016, forest:0.0016, forged:0.0016, formal:0.0016, founding:0.0016
+france:0.0016, franco-prussian:0.0016, frederic:0.0016, french:0.0016, frequent:0.0016, frequently:0.0016, friend:0.0016, friends:0.0078
+fully:0.0016, future:0.0016, gained:0.0016, gardening:0.0016, general:0.0016, geographical:0.0016, giverny:0.0031, giving:0.0016
+gleyre:0.0016, gleyres:0.0016, good:0.0016, gradually:0.0031, green:0.0016, group:0.0031, groups:0.0016, handled:0.0016
+having:0.0016, havre:0.0062, hay:0.0016, haystacks:0.0016, height:0.0016, help:0.0016, her:0.0016, hotel:0.0016
+house:0.0047, houses:0.0016, however:0.0016, if:0.0016, immersed:0.0016, important:0.0016, impression:0.0016, impressionism:0.0031
+impressionist:0.0047, impressionists:0.0016, impressionsunrise:0.0016, increasingly:0.0016, indeed:0.0016, indoor:0.0016, influence:0.0016, influenes:0.0016
+influential:0.0016, insecurity:0.0016, inspire:0.0016, instead:0.0031, institution:0.0016, intense:0.0016, intervened:0.0016, into:0.0016
+itinerant:0.0016, joined:0.0031, labeled:0.0016, landmarks:0.0016, landscapes:0.0016, large:0.0031, largely:0.0031, larger:0.0016
+later:0.0016, le:0.0062, lecadre:0.0016, lecole:0.0016, left:0.0016, lessons:0.0016, life:0.0031, lifestyle:0.0016
+lifetime:0.0016, light:0.0062, lily:0.0016, limitations:0.0016, little:0.0016, lived:0.0016, loaded:0.0016, local:0.0016
+located:0.0016, london:0.0062, long:0.0016, loosely:0.0016, loss:0.0016, losses:0.0016, loved:0.0016, luxury:0.0016
+madame:0.0016, make:0.0031, manet:0.0031, marked:0.0031, masters:0.0016, mediterranean:0.0016, meet:0.0016, met:0.0016
+mistress:0.0016, mocked:0.0016, monet:0.053, monets:0.014, money:0.0016, morose:0.0016, motif:0.0016, move:0.0016
+moved:0.0031, movement:0.0031, museums:0.0016, name:0.0016, naming:0.0016, national:0.0016, nature:0.0047, nearby:0.0016
+new:0.0016, newfound:0.0016, newspaper:0.0016, next:0.0016, november:0.0016, number:0.0016, offered:0.0016, old:0.0016
+only:0.0031, open:0.0016, opposite:0.0016, out:0.0016, outdoors:0.0016, overall:0.0016, own:0.0016, paint:0.0047
+painted:0.0062, painter:0.0016, painters:0.0047, painting:0.0093, paintings:0.0078, paris:0.0093, parliament:0.0016, passion:0.0016
+perfecting:0.0016, period:0.0016, perspective:0.0016, pictures:0.0016, piece:0.0016, pigment:0.0016, pissarro:0.0031, placed:0.0016
+pool:0.0016, popular:0.0016, port:0.0016, pourville:0.0016, pregnant:0.0016, presented:0.0031, project:0.0016, proposal:0.0016
+provided:0.0016, provisions:0.0016, prussian:0.0016, public:0.0016, pursue:0.0016, put:0.0016, quite:0.0016, receiving:0.0016
+recognized:0.0016, recoup:0.0016, refined:0.0016, reflect:0.0016, relationship:0.0016, remain:0.0031, remained:0.0031, renoir:0.0062
+renown:0.0016, renowned:0.0016, rented:0.0016, replacing:0.0016, represents:0.0016, reputation:0.0016, resulted:0.0016, return:0.0031
+returned:0.0016, reworking:0.0016, ridicule:0.0016, rouen:0.0016, rough:0.0016, sacrificing:0.0016, salon:0.0016, same:0.0016
+scenic:0.0016, school:0.0016, secure:0.0016, seine:0.0016, sell:0.0016, series:0.0016, serious:0.0031, served:0.0016
+service:0.0016, settled:0.0016, several:0.0016, shadows:0.0016, short:0.0016, showing:0.0016, simultaneously:0.0016, sisley:0.0047
+six:0.0016, smooth:0.0016, social:0.0016, sombre:0.0016, southeast:0.0016, spaces:0.0016, spending:0.0016, spent:0.0016
+spontaneous:0.0016, spring:0.0016, stacks:0.0016, still:0.0016, strokes:0.0031, strong:0.0016, structured:0.0016, student:0.0016
+studio:0.0031, study:0.0016, style:0.0078, subdued:0.0016, subject:0.0031, subjects:0.0016, successful:0.0016, suggest:0.0016
+sunlight:0.0016, sunrise:0.0016, support:0.0016, surface:0.0016, surfaces:0.0016, swiss-born:0.0016, systematically:0.0016, talented:0.0016
+talents:0.0016, task:0.0016, technique:0.0031, texture:0.0016, thames:0.0016, than:0.0016, their:0.0016, them:0.0016
+themselves:0.0016, thewoman:0.0016, three:0.0031, through:0.0016, throughout:0.0016, time:0.016, together:0.0016, too:0.0016
+took:0.0016, town:0.0016, tradition:0.0016, traditionalists:0.0031, tried:0.0016, trips:0.0031, tuition:0.0016, turn:0.0016
+turner:0.0016, two:0.0062, typhoid:0.0016, uncertainty:0.0016, under:0.0016, understood:0.0016, unifying:0.0016, up:0.0016
+use:0.0016, varengeville-sur-mer:0.0016, venice:0.0016, venue:0.0016, versions:0.0016, views:0.0016, visible:0.0016, visiting:0.0016
+vogue:0.0031, wanted:0.0016, war:0.0016, water:0.0016, went:0.0016, work:0.0047, worked:0.0016, works:0.0016
+world:0.0047, years:0.0078, 
+
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+Next not null: Memory leak?
+removing alfred
+Next not null: Memory leak?
+removing applied
+Next not null: Memory leak?
+removing approach
+Next not null: Memory leak?
+removing approximately
+Next not null: Memory leak?
+removing areas
+Next not null: Memory leak?
+removing argenteuil
+Next not null: Memory leak?
+removing army
+Next not null: Memory leak?
+removing art
+Next not null: Memory leak?
+removing artist
+Next not null: Memory leak?
+removing artistes
+Next not null: Memory leak?
+removing artistic
+Next not null: Memory leak?
+removing artists
+Next not null: Memory leak?
+removing aspect
+Next not null: Memory leak?
+removing atlantic
+Next not null: Memory leak?
+removing attempt
+Next not null: Memory leak?
+removing attempted
+Next not null: Memory leak?
+removing auguste
+Next not null: Memory leak?
+removing aunt
+Next not null: Memory leak?
+removing avoid
+Next not null: Memory leak?
+removing back
+Next not null: Memory leak?
+removing backgrounds
+Next not null: Memory leak?
+removing bazille
+Next not null: Memory leak?
+removing before
+Next not null: Memory leak?
+removing began
+Next not null: Memory leak?
+removing beginning
+Next not null: Memory leak?
+removing begun
+Next not null: Memory leak?
+removing behind
+Next not null: Memory leak?
+removing being
+Next not null: Memory leak?
+removing bind
+Next not null: Memory leak?
+removing biography
+Next not null: Memory leak?
+removing born
+Next not null: Memory leak?
+removing bought
+Next not null: Memory leak?
+removing brilliant
+Next not null: Memory leak?
+removing broadly
+Next not null: Memory leak?
+removing broke
+Next not null: Memory leak?
+removing brush
+Next not null: Memory leak?
+removing brushstrokes
+Next not null: Memory leak?
+removing calculated
+Next not null: Memory leak?
+removing called
+Next not null: Memory leak?
+removing canvases
+Next not null: Memory leak?
+removing captured
+Next not null: Memory leak?
+removing caricatures
+Next not null: Memory leak?
+removing cathedral
+Next not null: Memory leak?
+removing cezanne
+Next not null: Memory leak?
+removing changed
+Next not null: Memory leak?
+removing charles
+Next not null: Memory leak?
+removing chasing
+Next not null: Memory leak?
+removing child
+Next not null: Memory leak?
+removing clearly
+Next not null: Memory leak?
+removing close
+Next not null: Memory leak?
+removing coasts
+Next not null: Memory leak?
+removing color
+Next not null: Memory leak?
+removing colors
+Next not null: Memory leak?
+removing come
+Next not null: Memory leak?
+removing commission
+Next not null: Memory leak?
+removing commitment
+Next not null: Memory leak?
+removing completing
+Next not null: Memory leak?
+removing completion
+Next not null: Memory leak?
+removing compositions
+Next not null: Memory leak?
+removing concern
+Next not null: Memory leak?
+removing condition
+Next not null: Memory leak?
+removing conditions
+Next not null: Memory leak?
+removing constable
+Next not null: Memory leak?
+removing constant
+Next not null: Memory leak?
+removing content
+Next not null: Memory leak?
+removing continued
+Next not null: Memory leak?
+removing contraction
+Next not null: Memory leak?
+removing contradict
+Next not null: Memory leak?
+removing conventional
+Next not null: Memory leak?
+removing could
+Next not null: Memory leak?
+removing couple
+Next not null: Memory leak?
+removing coupled
+Next not null: Memory leak?
+removing course
+Next not null: Memory leak?
+removing creating
+Next not null: Memory leak?
+removing credited
+Next not null: Memory leak?
+removing criticized
+Next not null: Memory leak?
+removing cubism
+Next not null: Memory leak?
+removing culminating
+Next not null: Memory leak?
+removing cut
+Next not null: Memory leak?
+removing dark
+Next not null: Memory leak?
+removing day
+Next not null: Memory leak?
+removing days
+Next not null: Memory leak?
+removing deal
+Next not null: Memory leak?
+removing december
+Next not null: Memory leak?
+removing dedication
+Next not null: Memory leak?
+removing degas
+Next not null: Memory leak?
+removing dependent
+Next not null: Memory leak?
+removing des
+Next not null: Memory leak?
+removing detail
+Next not null: Memory leak?
+removing determined
+Next not null: Memory leak?
+removing developed
+Next not null: Memory leak?
+removing devoted
+Next not null: Memory leak?
+removing did
+Next not null: Memory leak?
+removing died
+Next not null: Memory leak?
+removing dieppe
+Next not null: Memory leak?
+removing disintegration
+Next not null: Memory leak?
+removing distinct
+Next not null: Memory leak?
+removing doncieux
+Next not null: Memory leak?
+removing dress
+Next not null: Memory leak?
+removing drew
+Next not null: Memory leak?
+removing drifted
+Next not null: Memory leak?
+removing drouot
+Next not null: Memory leak?
+removing each
+Next not null: Memory leak?
+removing early
+Next not null: Memory leak?
+removing effect
+Next not null: Memory leak?
+removing effects
+Next not null: Memory leak?
+removing en
+Next not null: Memory leak?
+removing end
+Next not null: Memory leak?
+removing enemy
+Next not null: Memory leak?
+removing english
+Next not null: Memory leak?
+removing enroll
+Next not null: Memory leak?
+removing entire
+Next not null: Memory leak?
+removing entirely
+Next not null: Memory leak?
+removing entries
+Next not null: Memory leak?
+removing especially
+Next not null: Memory leak?
+removing eugene
+Next not null: Memory leak?
+removing eventaully
+Next not null: Memory leak?
+removing every
+Next not null: Memory leak?
+removing exclusively
+Next not null: Memory leak?
+removing exhibition
+Next not null: Memory leak?
+removing existence
+Next not null: Memory leak?
+removing expectations
+Next not null: Memory leak?
+removing expected
+Next not null: Memory leak?
+removing exposed
+Next not null: Memory leak?
+removing extremely
+Next not null: Memory leak?
+removing eyesight
+Next not null: Memory leak?
+removing failing
+Next not null: Memory leak?
+removing failure
+Next not null: Memory leak?
+removing faster
+Next not null: Memory leak?
+removing fathers
+Next not null: Memory leak?
+removing fauvism
+Next not null: Memory leak?
+removing feel
+Next not null: Memory leak?
+removing felt
+Next not null: Memory leak?
+removing filled
+Next not null: Memory leak?
+removing finally
+Next not null: Memory leak?
+removing financially
+Next not null: Memory leak?
+removing first
+Next not null: Memory leak?
+removing five
+Next not null: Memory leak?
+removing followed
+Next not null: Memory leak?
+removing fontainbleau
+Next not null: Memory leak?
+removing force
+Next not null: Memory leak?
+removing forced
+Next not null: Memory leak?
+removing forest
+Next not null: Memory leak?
+removing forged
+Next not null: Memory leak?
+removing formal
+Next not null: Memory leak?
+removing founding
+Next not null: Memory leak?
+removing france
+Next not null: Memory leak?
+removing franco-prussian
+Next not null: Memory leak?
+removing frederic
+Next not null: Memory leak?
+removing french
+Next not null: Memory leak?
+removing frequent
+Next not null: Memory leak?
+removing frequently
+Next not null: Memory leak?
+removing friend
+Next not null: Memory leak?
+removing fully
+Next not null: Memory leak?
+removing future
+Next not null: Memory leak?
+removing gained
+Next not null: Memory leak?
+removing gardening
+Next not null: Memory leak?
+removing general
+Next not null: Memory leak?
+removing geographical
+Next not null: Memory leak?
+removing giverny
+Next not null: Memory leak?
+removing giving
+Next not null: Memory leak?
+removing gleyre
+Next not null: Memory leak?
+removing gleyres
+Next not null: Memory leak?
+removing good
+Next not null: Memory leak?
+removing gradually
+Next not null: Memory leak?
+removing green
+Next not null: Memory leak?
+removing group
+Next not null: Memory leak?
+removing groups
+Next not null: Memory leak?
+removing handled
+Next not null: Memory leak?
+removing having
+Next not null: Memory leak?
+removing hay
+Next not null: Memory leak?
+removing haystacks
+Next not null: Memory leak?
+removing height
+Next not null: Memory leak?
+removing help
+Next not null: Memory leak?
+removing her
+Next not null: Memory leak?
+removing hotel
+Next not null: Memory leak?
+removing houses
+Next not null: Memory leak?
+removing however
+Next not null: Memory leak?
+removing if
+Next not null: Memory leak?
+removing immersed
+Next not null: Memory leak?
+removing important
+Next not null: Memory leak?
+removing impression
+Next not null: Memory leak?
+removing impressionism
+Next not null: Memory leak?
+removing impressionists
+Next not null: Memory leak?
+removing impressionsunrise
+Next not null: Memory leak?
+removing increasingly
+Next not null: Memory leak?
+removing indeed
+Next not null: Memory leak?
+removing indoor
+Next not null: Memory leak?
+removing influence
+Next not null: Memory leak?
+removing influenes
+Next not null: Memory leak?
+removing influential
+Next not null: Memory leak?
+removing insecurity
+Next not null: Memory leak?
+removing inspire
+Next not null: Memory leak?
+removing instead
+Next not null: Memory leak?
+removing institution
+Next not null: Memory leak?
+removing intense
+Next not null: Memory leak?
+removing intervened
+Next not null: Memory leak?
+removing into
+Next not null: Memory leak?
+removing itinerant
+Next not null: Memory leak?
+removing joined
+Next not null: Memory leak?
+removing labeled
+Next not null: Memory leak?
+removing landmarks
+Next not null: Memory leak?
+removing landscapes
+Next not null: Memory leak?
+removing large
+Next not null: Memory leak?
+removing largely
+Next not null: Memory leak?
+removing larger
+Next not null: Memory leak?
+removing later
+Next not null: Memory leak?
+removing lecadre
+Next not null: Memory leak?
+removing lecole
+Next not null: Memory leak?
+removing left
+Next not null: Memory leak?
+removing lessons
+Next not null: Memory leak?
+removing life
+Next not null: Memory leak?
+removing lifestyle
+Next not null: Memory leak?
+removing lifetime
+Next not null: Memory leak?
+removing lily
+Next not null: Memory leak?
+removing limitations
+Next not null: Memory leak?
+removing little
+Next not null: Memory leak?
+removing lived
+Next not null: Memory leak?
+removing loaded
+Next not null: Memory leak?
+removing local
+Next not null: Memory leak?
+removing located
+Next not null: Memory leak?
+removing long
+Next not null: Memory leak?
+removing loosely
+Next not null: Memory leak?
+removing loss
+Next not null: Memory leak?
+removing losses
+Next not null: Memory leak?
+removing loved
+Next not null: Memory leak?
+removing luxury
+Next not null: Memory leak?
+removing madame
+Next not null: Memory leak?
+removing make
+Next not null: Memory leak?
+removing manet
+Next not null: Memory leak?
+removing marked
+Next not null: Memory leak?
+removing masters
+Next not null: Memory leak?
+removing mediterranean
+Next not null: Memory leak?
+removing meet
+Next not null: Memory leak?
+removing met
+Next not null: Memory leak?
+removing mistress
+Next not null: Memory leak?
+removing mocked
+Next not null: Memory leak?
+removing money
+Next not null: Memory leak?
+removing morose
+Next not null: Memory leak?
+removing motif
+Next not null: Memory leak?
+removing move
+Next not null: Memory leak?
+removing moved
+Next not null: Memory leak?
+removing movement
+Next not null: Memory leak?
+removing museums
+Next not null: Memory leak?
+removing name
+Next not null: Memory leak?
+removing naming
+Next not null: Memory leak?
+removing national
+Next not null: Memory leak?
+removing nearby
+Next not null: Memory leak?
+removing new
+Next not null: Memory leak?
+removing newfound
+Next not null: Memory leak?
+removing newspaper
+Next not null: Memory leak?
+removing next
+Next not null: Memory leak?
+removing november
+Next not null: Memory leak?
+removing number
+Next not null: Memory leak?
+removing offered
+Next not null: Memory leak?
+removing old
+Next not null: Memory leak?
+removing only
+Next not null: Memory leak?
+removing open
+Next not null: Memory leak?
+removing opposite
+Next not null: Memory leak?
+removing out
+Next not null: Memory leak?
+removing outdoors
+Next not null: Memory leak?
+removing overall
+Next not null: Memory leak?
+removing own
+Next not null: Memory leak?
+removing painter
+Next not null: Memory leak?
+removing parliament
+Next not null: Memory leak?
+removing passion
+Next not null: Memory leak?
+removing perfecting
+Next not null: Memory leak?
+removing period
+Next not null: Memory leak?
+removing perspective
+Next not null: Memory leak?
+removing pictures
+Next not null: Memory leak?
+removing piece
+Next not null: Memory leak?
+removing pigment
+Next not null: Memory leak?
+removing pissarro
+Next not null: Memory leak?
+removing placed
+Next not null: Memory leak?
+removing pool
+Next not null: Memory leak?
+removing popular
+Next not null: Memory leak?
+removing port
+Next not null: Memory leak?
+removing pourville
+Next not null: Memory leak?
+removing pregnant
+Next not null: Memory leak?
+removing presented
+Next not null: Memory leak?
+removing project
+Next not null: Memory leak?
+removing proposal
+Next not null: Memory leak?
+removing provided
+Next not null: Memory leak?
+removing provisions
+Next not null: Memory leak?
+removing prussian
+Next not null: Memory leak?
+removing public
+Next not null: Memory leak?
+removing pursue
+Next not null: Memory leak?
+removing put
+Next not null: Memory leak?
+removing quite
+Next not null: Memory leak?
+removing receiving
+Next not null: Memory leak?
+removing recognized
+Next not null: Memory leak?
+removing recoup
+Next not null: Memory leak?
+removing refined
+Next not null: Memory leak?
+removing reflect
+Next not null: Memory leak?
+removing relationship
+Next not null: Memory leak?
+removing remain
+Next not null: Memory leak?
+removing remained
+Next not null: Memory leak?
+removing renown
+Next not null: Memory leak?
+removing renowned
+Next not null: Memory leak?
+removing rented
+Next not null: Memory leak?
+removing replacing
+Next not null: Memory leak?
+removing represents
+Next not null: Memory leak?
+removing reputation
+Next not null: Memory leak?
+removing resulted
+Next not null: Memory leak?
+removing return
+Next not null: Memory leak?
+removing returned
+Next not null: Memory leak?
+removing reworking
+Next not null: Memory leak?
+removing ridicule
+Next not null: Memory leak?
+removing rouen
+Next not null: Memory leak?
+removing rough
+Next not null: Memory leak?
+removing sacrificing
+Next not null: Memory leak?
+removing salon
+Next not null: Memory leak?
+removing same
+Next not null: Memory leak?
+removing scenic
+Next not null: Memory leak?
+removing school
+Next not null: Memory leak?
+removing secure
+Next not null: Memory leak?
+removing seine
+Next not null: Memory leak?
+removing sell
+Next not null: Memory leak?
+removing series
+Next not null: Memory leak?
+removing serious
+Next not null: Memory leak?
+removing served
+Next not null: Memory leak?
+removing service
+Next not null: Memory leak?
+removing settled
+Next not null: Memory leak?
+removing several
+Next not null: Memory leak?
+removing shadows
+Next not null: Memory leak?
+removing short
+Next not null: Memory leak?
+removing showing
+Next not null: Memory leak?
+removing simultaneously
+Next not null: Memory leak?
+removing six
+Next not null: Memory leak?
+removing smooth
+Next not null: Memory leak?
+removing social
+Next not null: Memory leak?
+removing sombre
+Next not null: Memory leak?
+removing southeast
+Next not null: Memory leak?
+removing spaces
+Next not null: Memory leak?
+removing spending
+Next not null: Memory leak?
+removing spent
+Next not null: Memory leak?
+removing spontaneous
+Next not null: Memory leak?
+removing spring
+Next not null: Memory leak?
+removing stacks
+Next not null: Memory leak?
+removing still
+Next not null: Memory leak?
+removing strokes
+Next not null: Memory leak?
+removing strong
+Next not null: Memory leak?
+removing structured
+Next not null: Memory leak?
+removing student
+Next not null: Memory leak?
+removing studio
+Next not null: Memory leak?
+removing study
+Next not null: Memory leak?
+removing subdued
+Next not null: Memory leak?
+removing subject
+Next not null: Memory leak?
+removing subjects
+Next not null: Memory leak?
+removing successful
+Next not null: Memory leak?
+removing suggest
+Next not null: Memory leak?
+removing sunlight
+Next not null: Memory leak?
+removing sunrise
+Next not null: Memory leak?
+removing support
+Next not null: Memory leak?
+removing surface
+Next not null: Memory leak?
+removing surfaces
+Next not null: Memory leak?
+removing swiss-born
+Next not null: Memory leak?
+removing systematically
+Next not null: Memory leak?
+removing talented
+Next not null: Memory leak?
+removing talents
+Next not null: Memory leak?
+removing task
+Next not null: Memory leak?
+removing technique
+Next not null: Memory leak?
+removing texture
+Next not null: Memory leak?
+removing thames
+Next not null: Memory leak?
+removing than
+Next not null: Memory leak?
+removing their
+Next not null: Memory leak?
+removing them
+Next not null: Memory leak?
+removing themselves
+Next not null: Memory leak?
+removing thewoman
+Next not null: Memory leak?
+removing three
+Next not null: Memory leak?
+removing through
+Next not null: Memory leak?
+removing throughout
+Next not null: Memory leak?
+removing together
+Next not null: Memory leak?
+removing too
+Next not null: Memory leak?
+removing took
+Next not null: Memory leak?
+removing town
+Next not null: Memory leak?
+removing tradition
+Next not null: Memory leak?
+removing traditionalists
+Next not null: Memory leak?
+removing tried
+Next not null: Memory leak?
+removing trips
+Next not null: Memory leak?
+removing tuition
+Next not null: Memory leak?
+removing turn
+Next not null: Memory leak?
+removing turner
+Next not null: Memory leak?
+removing typhoid
+Next not null: Memory leak?
+removing uncertainty
+Next not null: Memory leak?
+removing under
+Next not null: Memory leak?
+removing understood
+Next not null: Memory leak?
+removing unifying
+Next not null: Memory leak?
+removing up
+Next not null: Memory leak?
+removing use
+Next not null: Memory leak?
+removing varengeville-sur-mer
+Next not null: Memory leak?
+removing venice
+Next not null: Memory leak?
+removing venue
+Next not null: Memory leak?
+removing versions
+Next not null: Memory leak?
+removing views
+Next not null: Memory leak?
+removing visible
+Next not null: Memory leak?
+removing visiting
+Next not null: Memory leak?
+removing vogue
+Next not null: Memory leak?
+removing wanted
+Next not null: Memory leak?
+removing war
+Next not null: Memory leak?
+removing water
+Next not null: Memory leak?
+removing went
+Next not null: Memory leak?
+removing worked
+Next not null: Memory leak?
+removing works
+
+
+PRINTING AFTER ELIMINATION
+age:0.0047, algeria:0.0047, boudin:0.0047, camille:0.0078, claude:0.0047, death:0.0062, despite:0.0047, different:0.0078
+financial:0.0047, friends:0.0078, havre:0.0062, house:0.0047, impressionist:0.0047, le:0.0062, light:0.0062, london:0.0062
+monet:0.053, monets:0.014, nature:0.0047, paint:0.0047, painted:0.0062, painters:0.0047, painting:0.0093, paintings:0.0078
+paris:0.0093, renoir:0.0062, sisley:0.0047, style:0.0078, time:0.016, two:0.0062, work:0.0047, world:0.0047
+years:0.0078, 
